@@ -1,0 +1,10 @@
+console.log("Parser -> AST -> Interpreter (Bytecode)");
+console.log("                           |");
+console.log("                           V");
+console.log("                        Profiler");
+console.log("                           |");
+console.log("                           V");
+console.log("                        Compiler");
+console.log("                           |");
+console.log("                           V");
+console.log("                      Machine Code");
