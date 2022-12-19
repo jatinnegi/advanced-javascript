@@ -1,1 +1,1 @@
-console.log("OOP vs FP");
+console.log("Modules in Javascript");
