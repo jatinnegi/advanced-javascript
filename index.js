@@ -1,1 +1,2 @@
-console.log("Error Handling");
+console.log("Advanced Javascript!");
+console.log("Data Structures in Javascript!");
